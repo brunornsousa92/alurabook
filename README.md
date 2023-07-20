@@ -1,4 +1,9 @@
-<h1 align="center"> Alura Book </h1>
+<div align="center"> 
+  
+![Logo da alura book](https://github.com/brunornsousa92/alurabook/assets/17336588/53ade7b6-0d14-4e34-b829-9a7686c934b9)
+
+  
+</div>
 
 ![Badge em Desenvolvimento](https://img.shields.io/badge/STATUS-FINALIZADO-blue)
 
